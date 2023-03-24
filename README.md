@@ -1,0 +1,1 @@
+# spryker-glue-fe
