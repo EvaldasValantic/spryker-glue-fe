@@ -1,0 +1,14 @@
+{
+  "name": "spryker-glue-fe",
+  "version": "0.1.0",
+  "description": "Frontend for Spryker GLUE",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evaldas Buzas - Valantic LT",
+  "license": "ISC",
+  "dependencies": {
+    "vitest": "^0.29.7"
+  }
+}
